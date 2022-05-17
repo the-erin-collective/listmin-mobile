@@ -11,7 +11,8 @@ the listmin server code can be found here:
 
 NativeScript can be setup using [this guide](https://docs.nativescript.org/environment-setup.html), follow the android setup process for your operating system.
 
-note: there may be trouble getting the nativescript cli to find your jdk path, trying ```jdk1.8.0_152``` and pointing to that installed folder in the ```%JAVA_HOME%``` path variable may resolve it. In that case you may need to add a more recent jdk to the ```gradle.properties``` file (```listmin-mobile\platforms\android\gradle.properties```). 
+###note
+there may be trouble getting the nativescript cli to find your jdk path, trying ```jdk1.8.0_152``` and pointing to that installed folder in the ```%JAVA_HOME%``` path variable may resolve it. In that case you may need to add a more recent jdk to the ```gradle.properties``` file (```listmin-mobile\platforms\android\gradle.properties```). 
 
 for example...
 ```
