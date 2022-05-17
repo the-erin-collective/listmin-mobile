@@ -1,9 +1,9 @@
 # listmin-mobile
 
-listmin-mobile is the mobile client for listmin, a listing platform for minimum wage pegged goods and services and is built with NativeScript.
+listmin-mobile is the mobile client for [listmin](https://github.com/the-erin-collective/listmin), a listing platform for minimum wage pegged goods and services and is built with NativeScript.
 
 the listmin server code can be found here:  
-[listmin](https://github.com/the-erin-collective/listmin)
+[github.com/the-erin-collective/listmin](https://github.com/the-erin-collective/listmin)
 
 ## Setup
 
